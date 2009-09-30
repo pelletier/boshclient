@@ -1,0 +1,14 @@
+syntax: glob
+
+*.pyc
+*~
+*.db
+*.tmp
+.DS_Store
+*.sqlite
+*.svn
+*.orig
+*.old
+*.sqlite3
+*.kpf
+*.swp
